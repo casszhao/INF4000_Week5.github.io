@@ -16,12 +16,14 @@ Before we start, let s do a quick [survey](https://forms.gle/KvixaKNSqM11oev98).
 ![a](https://github.com/casszhao/INF4000.github.io/raw/main/debugging.jpg)
 
 
-Noted this week is 
+Noted, this week is 
 * **NOT** about advanced techniques and skills for R studio
 * **NOT** about following each step and reproducing each result or graphs
 * about practice solving problems **on your own**
+* about helping you on the coding problem you face. To better help you, please post any question [here](https://docs.google.com/document/d/1PfDlV3_pL_zQMceeOgqhBqE4r6r6W2NhbFIzZAp_stk/edit?usp=sharing) during the session (access with your university eamil). We will come back to answer these questions together once a while. Also, feel free to help your classmate by writing back a solution.
 * **Dont rush** doing this worksheet. 
-* Better way to use this worksheet: stop and think how you will do to find the soluation, how you want to approach the issue, and then move on.
+* Better to take use of the worksheet in this way: stop and think how you will do to find the soluation, how you want to approach the issue, and then move on.
+
 ---
 
 
