@@ -57,9 +57,9 @@ In some situation, it is a good idea to suspect the original data, and you can d
         
        
 2. **Repeate it with simpler/smaller data**
- * Create a minimal, reproducible example using simple data
- * Note which inputs don’t trigger the error
- * If not already done, write simple tests to reduce chances of creating a new bug
+ * Create a minimal, reproducible example data or simpler example data
+ * Note which split of data don’t trigger the error, e.g., if any minimal or simpler example data does not trigger the error? and what changes made to them will trigger the error?
+ * Note any changes in the error message when using a minimal, simpler example data. Explore modification of the code and see the changes it brings to the error messages and results. 
 
 
 3. **Figure out where the error is** 
@@ -88,7 +88,7 @@ These steps cam be followed each time you encounter an unexpected error. Many ti
 ![a](rubber_duck.jpg)
 
 
-
+By the way, I have brought my own rubber duck, feel free to borrow it in this session if you want to explain your code to her. 
 
 
 
