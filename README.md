@@ -1,9 +1,19 @@
 # Week 5: 
 
-[cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 # Trouble shooting with Google: where the programming starts
 ![a](https://github.com/casszhao/INF4000.github.io/raw/main/debugging.jpg)
 
+
+
+Learning objective:
+* To de-stress from facing bugs and problems in code.
+* To locate problem.
+* To use right sources and platform to search and debug.
+* To formulate a "good" question.
+
+---
+Before we start, let s do a quick [survey](https://forms.gle/nKQF9yGyvy3ZU1xD9). I promise you it is really short ![a](short.png).
+---
 
 Noted this week is 
 * **NOT** about advanced techniques and skills for R studio
@@ -16,11 +26,6 @@ Noted this week is
 
 
 
-Learning objective:
-
-* To use right sources and platform to search and debug
-* To locate problem
-* To formulate a "good" question
 
 
 
