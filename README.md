@@ -7,7 +7,7 @@ Learning objective:
 * To formulate a "good" question.
 
 
-Before we start, let s do a quick [survey](https://forms.gle/nKQF9yGyvy3ZU1xD9). I promise you it is really short.
+Before we start, let s do a quick [survey](https://forms.gle/KvixaKNSqM11oev98). I promise you it is really short.
 
 ![a](short.png)
 
