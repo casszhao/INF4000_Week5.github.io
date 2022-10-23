@@ -1,19 +1,20 @@
 # Week 5: 
 
-# Trouble shooting with Google: where the programming starts
-![a](https://github.com/casszhao/INF4000.github.io/raw/main/debugging.jpg)
-
-
-
 Learning objective:
 * To de-stress from facing bugs and problems in code.
 * To locate problem.
 * To use right sources and platform to search and debug.
 * To formulate a "good" question.
 
----
-Before we start, let s do a quick [survey](https://forms.gle/nKQF9yGyvy3ZU1xD9). I promise you it is really short ![a](short.png).
----
+
+Before we start, let s do a quick [survey](https://forms.gle/nKQF9yGyvy3ZU1xD9). I promise you it is really short.
+
+![a](short.png)
+
+
+# Trouble shooting: where the programming starts
+![a](https://github.com/casszhao/INF4000.github.io/raw/main/debugging.jpg)
+
 
 Noted this week is 
 * **NOT** about advanced techniques and skills for R studio
@@ -21,7 +22,7 @@ Noted this week is
 * about practice solving problems **on your own**
 * **Dont rush** doing this worksheet. 
 * Better way to use this worksheet: stop and think how you will do to find the soluation, how you want to approach the issue, and then move on.
-
+---
 
 
 
