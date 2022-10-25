@@ -210,7 +210,7 @@ However, there is a overlapping between 2020 and 2000. To solve this, one soluti
 ### Now we try the second way to solve our problem. Using ![a](google.png)
 What kind of keywords/sentences you would like to use to google for our problem? Please share your answer [here](https://docs.google.com/document/d/1ZnAuv5rBt2bRxbC_dT79xzw6EbDkajYpGLQock-xz7I/edit?usp=sharing).
 
-Let s try ![a](google.png) this one I come up with.
+Let s try google using this enquiry I come up with.
 > How to change the coordinate limit in r studio
 
 Instead of searching *All* we search for *Images* to speed up our troubleshooting.
