@@ -58,19 +58,19 @@ Just check your data, even it is readable and loadable.
 In some situation, it is a good idea to suspect the original data, and you can do a backup and then modify the dataset and then run the code again to see if your doubt is correct.
         
        
-2. **Repeate it with simpler/smaller data**
+3. **Repeate it with simpler/smaller data**
  * Create a minimal, reproducible example data or simpler example data
  * Note which split of data don’t trigger the error, e.g., if any minimal or simpler example data does not trigger the error? and what changes made to them will trigger the error?
  * Note any changes in the error message when using a minimal, simpler example data. Explore modification of the code and see the changes it brings to the error messages and results. 
 
 
-3. **Figure out where the error is** 
+4. **Figure out where the error is** 
  * Use the “scientific method”, e.g. repeate it a little bit differently (modify your code/arguments just a tiny bit. When modify, try to only change a single variable. In such an way, it is easy to compare and then locate the problem.)
  * Hypothesize, test with experiments, and record results
  * If needed, ask someone else for a second pair of eyes to review
 
 
-4. **Dont be afraid of testing around**
+5. **Dont be afraid of testing around**
 * Just try it
 
 
